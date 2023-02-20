@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        // Launch app for debugging
+        {
+            "name": "Android",
+            "type": "android-debug",
+            "request": "launch",
+            "target": "select",
+            "mode": "dual", // Change to `java` or `native` to attach only Java or Native debugger.
+            "packageName": "com.esocodes.sand", // Package name for your app.
+            "launchActivity": ".MainActivity",  // Activity to launch
+            "native": {
+                "symbolSearchPaths": [
+                    "${workspaceFolder}/app/build/intermediates/cmake/debug/obj/${command:abi}/",
+                ],
+            },
+            "java": {
+                "sourcePaths": ["${workspaceFolder}/app/src/main/java"]
+            }
+        },
+        // Attach to running app
+        {
+            "name": "Android",
+            "type": "android-debug",
+            "request": "attach",
+            "target": "select",
+            "pid": "${command:pickAndroidProcess}",
+            "mode": "dual", // Change to `java` or `native` to attach only Java or Native debugger.
+            "packageName": "com.esocodes.sand", // Package name for your app.
+            "native": {
+                "symbolSearchPaths": [
+                    "${workspaceFolder}/app/build/intermediates/cmake/debug/obj/${command:abi}/",
+                ],
+            },
+            "java": {
+                "sourcePaths": ["${workspaceFolder}/app/src/main/java"]
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/codes/ndk/imgui.droid/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\J\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=C:/Users/J/AppData/Local/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native_app_glue.dir\\C_\\Users\\J\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\sources\\android\\native_app_glue\\android_native_app_glue.c.o   -c C:\\Users\\J\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\sources\\android\\native_app_glue\\android_native_app_glue.c",
+  "file": "C:\\Users\\J\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\sources\\android\\native_app_glue\\android_native_app_glue.c"
+}
+]

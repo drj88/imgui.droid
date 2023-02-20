@@ -1,0 +1,8 @@
+com.esocodes.sand.app-pngs-0 C:\codes\ndk\imgui.droid\app\build\generated\res\pngs\debug
+com.esocodes.sand.app-resValues-1 C:\codes\ndk\imgui.droid\app\build\generated\res\resValues\debug
+com.esocodes.sand.app-rs-2 C:\codes\ndk\imgui.droid\app\build\generated\res\rs\debug
+com.esocodes.sand.app-mergeDebugResources-3 C:\codes\ndk\imgui.droid\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.esocodes.sand.app-mergeDebugResources-4 C:\codes\ndk\imgui.droid\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.esocodes.sand.app-merged_res-5 C:\codes\ndk\imgui.droid\app\build\intermediates\merged_res\debug
+com.esocodes.sand.app-debug-6 C:\codes\ndk\imgui.droid\app\src\debug\res
+com.esocodes.sand.app-main-7 C:\codes\ndk\imgui.droid\app\src\main\res

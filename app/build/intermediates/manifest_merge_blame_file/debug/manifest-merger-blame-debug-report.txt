@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.esocodes.sand"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:6:3-29:17
+12        android:allowBackup="false"
+12-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:8:7-34
+13        android:debuggable="true"
+13-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:7:7-32
+14        android:fullBackupContent="false"
+14-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:9:7-40
+15        android:hasCode="false"
+15-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:12:7-30
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:10:7-41
+17        android:label="@string/app_name"
+17-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:11:7-39
+18        android:testOnly="true" >
+19        <activity
+19-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:17:5-28:16
+20            android:name="android.app.NativeActivity"
+20-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:18:9-50
+21            android:exported="true"
+21-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:20:9-32
+22            android:label="@string/app_name" >
+22-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:19:9-41
+23            <meta-data
+23-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:21:7-23:43
+24                android:name="android.app.lib_name"
+24-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:22:11-46
+25                android:value="native-plasma" />
+25-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:23:11-40
+26
+27            <intent-filter>
+27-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:24:7-27:23
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:25:9-61
+28-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:25:17-58
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:26:9-69
+30-->C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:26:19-66
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

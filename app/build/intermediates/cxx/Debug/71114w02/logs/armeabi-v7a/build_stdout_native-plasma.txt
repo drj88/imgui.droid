@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\codes\ndk\imgui.droid\app\.cxx\Debug\71114w02\armeabi-v7a'
+ninja: no work to do.

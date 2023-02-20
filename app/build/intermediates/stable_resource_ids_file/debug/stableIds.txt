@@ -1,0 +1,2 @@
+com.esocodes.sand:string/app_name = 0x7f020000
+com.esocodes.sand:mipmap/ic_launcher = 0x7f010000

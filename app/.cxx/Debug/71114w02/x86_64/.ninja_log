@@ -1,0 +1,26 @@
+# ninja log v5
+5	3005	697512013	CMakeFiles/native_app_glue.dir/C_/Users/J/AppData/Local/Android/Sdk/ndk/25.2.9519653/sources/android/native_app_glue/android_native_app_glue.c.o	92685422727c80ee
+97	3536	697512014	CMakeFiles/native-plasma.dir/main.cpp.o	e94d78f45b1c2e27
+3017	5668	697512016	libnative_app_glue.a	1fc222aa1c8a55b3
+50	14130	697512025	CMakeFiles/native-plasma.dir/imgui/imgui_demo.cpp.o	9f825b4a809bd7d8
+14133	17310	697512028	CMakeFiles/native-plasma.dir/imgui/backends/imgui_impl_opengl3.cpp.o	a0cd12a4d4c40d28
+3540	20617	697512031	CMakeFiles/native-plasma.dir/imgui/backends/imgui_impl_android.cpp.o	81dc203a17f1d985
+26	23032	697512034	CMakeFiles/native-plasma.dir/imgui/imgui_draw.cpp.o	dd6f2a4807aad3d6
+5670	23367	697512034	CMakeFiles/native-plasma.dir/imgui/imgui_tables.cpp.o	b850a4c250ee027b
+217	25614	697512036	CMakeFiles/native-plasma.dir/imgui/imgui_widgets.cpp.o	e9fe9661e87fd9a6
+79	26364	697512037	CMakeFiles/native-plasma.dir/imgui/imgui.cpp.o	791acf42b1193f8b
+26366	27710	697512038	C:/codes/ndk/imgui.droid/app/build/intermediates/cxx/Debug/71114w02/obj/x86_64/libnative-plasma.so	5d657b01db3dd567
+1	216	0	clean	73849b75e56758a6
+1	909	0	clean	73849b75e56758a6
+2	132	0	clean	73849b75e56758a6
+72	5396	698621499	CMakeFiles/native_app_glue.dir/C_/Users/J/AppData/Local/Android/Sdk/ndk/25.2.9519653/sources/android/native_app_glue/android_native_app_glue.c.o	92685422727c80ee
+254	6563	698621501	CMakeFiles/native-plasma.dir/main.cpp.o	e94d78f45b1c2e27
+5398	12075	698621504	libnative_app_glue.a	1fc222aa1c8a55b3
+335	24741	698621519	CMakeFiles/native-plasma.dir/imgui/imgui_demo.cpp.o	9f825b4a809bd7d8
+24745	29649	698621524	CMakeFiles/native-plasma.dir/imgui/backends/imgui_impl_opengl3.cpp.o	a0cd12a4d4c40d28
+6565	38747	698621533	CMakeFiles/native-plasma.dir/imgui/imgui_tables.cpp.o	b850a4c250ee027b
+12076	39148	698621533	CMakeFiles/native-plasma.dir/imgui/backends/imgui_impl_android.cpp.o	81dc203a17f1d985
+184	40253	698621534	CMakeFiles/native-plasma.dir/imgui/imgui_draw.cpp.o	dd6f2a4807aad3d6
+372	45148	698621539	CMakeFiles/native-plasma.dir/imgui/imgui_widgets.cpp.o	e9fe9661e87fd9a6
+136	46470	698621540	CMakeFiles/native-plasma.dir/imgui/imgui.cpp.o	791acf42b1193f8b
+46472	49170	698621543	C:/codes/ndk/imgui.droid/app/build/intermediates/cxx/Debug/71114w02/obj/x86_64/libnative-plasma.so	5d657b01db3dd567

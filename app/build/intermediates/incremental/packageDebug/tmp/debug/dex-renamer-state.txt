@@ -1,0 +1,4 @@
+#Mon Feb 20 15:50:09 EST 2023
+base.0=C\:\\codes\\ndk\\imgui.droid\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

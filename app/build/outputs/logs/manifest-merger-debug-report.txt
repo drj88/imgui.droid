@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+provider#androidx.startup.InitializationProvider
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:13:5-16:31
+	tools:node
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:16:9-28
+	android:authorities
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:15:9-64
+	android:name
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:14:9-63
+manifest
+ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:5:3-28
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:3:3-49
+	xmlns:android
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:4:3-26
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:6:3-29:17
+	android:label
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:11:7-39
+	android:hasCode
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:12:7-30
+	android:fullBackupContent
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:9:7-40
+	android:debuggable
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:7:7-32
+	android:icon
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:8:7-34
+activity#android.app.NativeActivity
+ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:17:5-28:16
+	android:label
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:19:9-41
+	android:exported
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:20:9-32
+	android:name
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:18:9-50
+meta-data#android.app.lib_name
+ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:21:7-23:43
+	android:value
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:23:11-40
+	android:name
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:22:11-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:24:7-27:23
+action#android.intent.action.MAIN
+ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:25:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:26:9-69
+	android:name
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml:26:19-66
+uses-sdk
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+		ADDED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\codes\ndk\imgui.droid\app\src\main\AndroidManifest.xml

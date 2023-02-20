@@ -1,0 +1,12 @@
+Could not run phased build action using connection to Gradle distribution 'https://services.gradle.org/distributions/gradle-7.4-all.zip'.
+org.gradle.api.ProjectConfigurationException: A problem occurred configuring project ':app'.
+A problem occurred configuring project ':app'.
+Build file 'C:\codes\ndk\_samps2023\native-activity\app\build.gradle' line: 2
+An exception occurred applying plugin request [id: 'com.android.application']
+Failed to apply plugin 'com.android.internal.application'.
+Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8.
+ Your current JDK is located in C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\jre
+ You can try some of the following options:
+  - changing the IDE settings.
+  - changing the JAVA_HOME environment variable.
+  - changing `org.gradle.java.home` in `gradle.properties`.

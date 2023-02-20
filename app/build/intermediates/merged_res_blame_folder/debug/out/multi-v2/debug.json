@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.esocodes.sand.app-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\codes\\ndk\\imgui.droid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "50",
+                        "endOffsets": "103"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    }
+                }
+            ]
+        }
+    ]
+}

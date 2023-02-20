@@ -1,0 +1,4 @@
+C:/codes/ndk/imgui.droid/app/.cxx/Debug/71114w02/armeabi-v7a/CMakeFiles/native_app_glue.dir
+C:/codes/ndk/imgui.droid/app/.cxx/Debug/71114w02/armeabi-v7a/CMakeFiles/native-plasma.dir
+C:/codes/ndk/imgui.droid/app/.cxx/Debug/71114w02/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/codes/ndk/imgui.droid/app/.cxx/Debug/71114w02/armeabi-v7a/CMakeFiles/rebuild_cache.dir
